@@ -1,7 +1,5 @@
-- Hello hello! the name's Gray =) (i'm @grayaliens)
-- i'm a beginner animator, pixel artist and game developer 
-- I’m currently learning html and python, and looking to possibly start c# :]
-- You can reach me on various social media, but i'm most active on <a href="https://gray-aliens.tumblr.com/">tumblr</a>
+hi! the name's gray.
+artist, animator, web + (beginner) game developer.
 
 <!---
 grayaliens/grayaliens is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
