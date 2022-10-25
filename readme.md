@@ -1,4 +1,4 @@
 # deargrays
 
-website: deargrays.com 
+website: https://www.deargrays.com/ <br>
 i make art and games :)
